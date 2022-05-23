@@ -23,7 +23,7 @@
     "@angular/router": "^4.0.0",
     "@dpogue/dexie": "^1.4.1",
     "core-js": "^2.4.1",
-    "dexie": "^2.0.4",
+    "dexie": "^3.2.2",
     "rxjs": "^5.1.0",
     "zone.js": "^0.8.4"
   },
